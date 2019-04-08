@@ -1,6 +1,0 @@
-Public main ()
-{
-
-
-    }
-
