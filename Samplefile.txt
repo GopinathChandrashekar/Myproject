@@ -1,3 +1,0 @@
-Hi , This is Gopinath practicing Devops 
-<-- adding comment --!>
-my first git class.
